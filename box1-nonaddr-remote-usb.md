@@ -5,9 +5,13 @@ This is a very simple type of LED lighting. Just plug it in, select the color (o
 
 ## LED Specifications
 Addressable ("Pixels") = No
+
 LED Spacing = 60/m
+
 Weather Rating = IP65
+
 Power Connector = USB (5v)
+
 Control = Wireless remote (IR)
 
 ## Parts
