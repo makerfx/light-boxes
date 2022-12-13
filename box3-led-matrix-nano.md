@@ -19,7 +19,8 @@
 
 ### Arduino Setup
 * The Arduino Nano is running the FastLED library "DemoReel100" example - https://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino (Once the FastLED Library is installed in the Arduino IDE, select Examples->FastLED->DemoReel100 and upload to the nano.
-* We made one minor tweak to the code to start on a pattern that had more motion so that it was more exciting when first plugged in. We did this by changing this line of code > uint8_t gCurrentPatternNumber = 0; // Index number of which pattern is current 
+* We made one minor tweak to the code to start on a pattern that had more motion so that it was more exciting when first plugged in. We did this by changing this line of code 
+> uint8_t gCurrentPatternNumber = 0; // Index number of which pattern is current 
 * We are using the default DATA_PIN which is (digital) pin D3
 * The LED connector is connected to VIN (direct from USB, we don't want to run through the voltage regulator on the nano), GND, and D3
 
