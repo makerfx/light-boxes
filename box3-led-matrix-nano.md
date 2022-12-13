@@ -23,7 +23,7 @@
 * The LED connector is connected to VIN (direct from USB, we don't want to run through the voltage regulator on the nano), GND, and D3
 
 
-![LED product listing on Amazon](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/box3-led-matrix.jpg)
+![LED product listing on Amazon](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/box3-led-matrix-amazon.jpg)
 
 
 ![Arduino Nano clones product listing on Amazon](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/arduino-nano-clones-amazon.jpg)
