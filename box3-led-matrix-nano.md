@@ -12,7 +12,7 @@
 * Control = Arduino Nano with FastLED code
 
 ## Parts
-* 8x32 256 Pixels LED matric ($20.29) - https://www.amazon.com/gp/product/B088BTXHRG/
+* 8x32 256 Pixels LED matrix ($20.29) - https://www.amazon.com/gp/product/B088BTXHRG/
 * Arduino Nano clone ($17.49 for 3) - https://www.amazon.com/gp/product/B01DLIJQA2/
 * JST SM 3 Pin connector. Connector is soldered to Nano, connects to LEDs ($9.49 for 20 pairs) - https://www.amazon.com/BTF-LIGHTING-Connectors-WS2812B-WS2811-WS2812/dp/B01DC0KIT2/
 * Shadow Box ($37.98) - https://www.amazon.com/gp/product/B08BLHZ4FP
