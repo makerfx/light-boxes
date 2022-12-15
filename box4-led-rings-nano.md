@@ -18,6 +18,12 @@ A more advanced style of LED lighting (but not hard to learn!), this Light Box u
 * JST SM 3 Pin connector. Connector is soldered to Nano, connects to LEDs ($9.49 for 20 pairs) - https://www.amazon.com/BTF-LIGHTING-Connectors-WS2812B-WS2811-WS2812/dp/B01DC0KIT2/
 * Shadow Box ($37.98) - https://www.amazon.com/gp/product/B08BLHZ4FP
 
+### Wiring
+* This wiring is far more involved that simply adding a connector to the Arduino and plugging in the rings. While you can buy rings that already have the connectors soldered on, if you are planning to leave them connected you then have a large bulk of wiring behind the rings. For this box, we used 22 gauge solid conductor wire to solder jumpers between the rings. The power and ground wires simply jumper across all the pads, while the data wire must go from the first ring's data out to the second ring's data in, and then continue in that fashion. The first data in and the last data out go to the JST SM 3 pin connectors.
+
+![LED rings wiring](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/box4-led-rings-wiring1.jpg)
+
+
 ### Code
 * The Arduino Nano is running the FastLED library "DemoReel100" example - https://github.com/FastLED/FastLED/blob/master/examples/DemoReel100/DemoReel100.ino (Once the FastLED Library is installed in the Arduino IDE, select Examples->FastLED->DemoReel100 and upload to the nano.
 * We are using the default DATA_PIN which is (digital) pin D3
