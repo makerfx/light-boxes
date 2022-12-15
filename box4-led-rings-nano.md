@@ -25,7 +25,7 @@ A more advanced style of LED lighting (but not hard to learn!), this Light Box u
 
 ## Products
 
-![LED product listing on Amazon](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/box4-led-rings.jpg)
+![LED product listing on Amazon](https://raw.githubusercontent.com/makerfx/light-boxes/main/images/box4-led-rings-amazon.jpg)
 
 ---
 
