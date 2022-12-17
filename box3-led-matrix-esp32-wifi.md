@@ -1,4 +1,4 @@
-# Box 3 - Flexible Addressable ("Pixel") LED Matrix controlled by an Arduino Nano
+# Box 3 - Flexible Addressable ("Pixel") LED Matrix controlled by an ESP32 with Wi-Fi control
 
 ## Overview
 A more advanced style of LED lighting (but not hard to learn!), this Light Box has a FLEXIBLE LED matrix that contains addressable LED "pixels" that can each be individually programmed. Instead of using an "off-the-shelf" controller, this Light Box uses an Arduino Nano clone with C code that can control each LED. We are using a coding library called FastLED that does the hard work for us, and then using the DemoReel100 example code. This code is a great jumping-off-point to learning how to code for LEDs. This type of LEDs can also be controlled by an off-the-shelf controller that has standard patterns, or perhaps an advanced controller that has Wi-Fi or Bluetooth and app control.
