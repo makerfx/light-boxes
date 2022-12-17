@@ -1,4 +1,4 @@
-# Box 5 - Non-Addressable LED Neon and USB power
+# Box 5 - Non-Addressable LED Neon
 
 ## Overview
 This is a very simple type of LED lighting. Simply bend the LED neon into the shape you want and plug it in!
