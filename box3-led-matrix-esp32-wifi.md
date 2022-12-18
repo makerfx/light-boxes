@@ -9,7 +9,7 @@ A more advanced style of LED lighting (but not hard to learn!), this Light Box h
 * Form Factor = Flexible matrix
 * LED Spacing = (Not usual specified with a matrix of this type)
 * Weather Rating = IP33 (Bare strip, not waterproof)
-* Power Connector = USB (5v) into Arduino Nano
+* Power Connector = USB (5v) into ESP32
 * Control = Arduino Nano with FastLED code
 
 ### Parts
